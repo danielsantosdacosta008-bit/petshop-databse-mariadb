@@ -190,6 +190,39 @@ Nascimento
 7.1 Insert com JSON
 
 <img width="886" height="301" alt="image" src="https://github.com/user-attachments/assets/1d6d0876-b044-4864-863c-d12dfd535c53" />
-![Uploading image.png…]()
+<img width="886" height="132" alt="image" src="https://github.com/user-attachments/assets/70ead3b2-6677-4968-a347-9d622d97d85b" />
+
+8. TRANSAÇÕES
+
+#start transaction e commit
+
+<img width="886" height="230" alt="image" src="https://github.com/user-attachments/assets/7e3fdaf1-7219-4af6-a15e-5256e9967a10" />
 
  
+#rollback
+
+<img width="491" height="280" alt="image" src="https://github.com/user-attachments/assets/f1b1fd85-386b-4015-af24-06ca38839cae" />
+
+ 
+9. DROP
+#drop table produtos
+#antes
+
+<img width="491" height="353" alt="image" src="https://github.com/user-attachments/assets/f6249dde-f35e-4618-8dd3-719e468daa55" />
+
+ 
+#depois
+ 
+<img width="573" height="433" alt="image" src="https://github.com/user-attachments/assets/2f834eb3-106d-4d72-9932-d9f6bfe678b7" />
+
+
+#drop database petshop_2
+
+#antes
+
+<img width="556" height="438" alt="image" src="https://github.com/user-attachments/assets/42245957-467f-48af-8e70-73975bf733e0" />
+
+#depois
+ 
+![Uploading image.png…]()
+
