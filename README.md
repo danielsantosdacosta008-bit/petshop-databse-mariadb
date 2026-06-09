@@ -1,4 +1,4 @@
-# petshop-databse-mariadb
+# petshop-database-mariadb
 Modelagem e consultas SQL para sistema de pet shop hospitalar.
 ---
 DER - MODELAGEM LÓGICA
