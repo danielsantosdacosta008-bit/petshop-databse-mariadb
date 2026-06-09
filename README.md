@@ -76,9 +76,64 @@ Modelagem e consultas SQL para sistema de pet shop hospitalar.
 2.6 Add registros prescrição
 
 <img width="886" height="270" alt="image" src="https://github.com/user-attachments/assets/b134fe8e-0d62-4328-963b-e6c72a10537b" />
-![Uploading image.png…]()
+<img width="663" height="433" alt="image" src="https://github.com/user-attachments/assets/15de1afc-1de2-4951-8253-2e3c5f7e75e4" />
+
+3. UTILIZANDO CONSULTA SQL
+   
+3.1 Select
+
+<img width="886" height="255" alt="image" src="https://github.com/user-attachments/assets/4feae627-dc6a-4412-a719-0911c9761c0b" />
 
  
+3.2 Where
+
+<img width="733" height="441" alt="image" src="https://github.com/user-attachments/assets/b56d5489-f281-4cb2-8791-bc1f0dacee6a" />
+
+ 
+3.3 Order by
+Nome
+
+<img width="886" height="425" alt="image" src="https://github.com/user-attachments/assets/36fea6ab-db77-40de-b93d-7648f0edab72" />
+
+Nascimento
+
+<img width="886" height="165" alt="image" src="https://github.com/user-attachments/assets/f5ef2daf-9d06-485a-8e44-59f3d152d226" />
+
+3.4 Like
+
+<img width="886" height="195" alt="image" src="https://github.com/user-attachments/assets/a62dace6-77ab-4207-91cd-be548dcad538" />
+
+ 
+3.5 Between
+
+<img width="886" height="213" alt="image" src="https://github.com/user-attachments/assets/cb57db93-d707-49d2-b110-c14ed58cabaf" />
+
+ 
+3.6 In
+
+<img width="694" height="663" alt="image" src="https://github.com/user-attachments/assets/591a3862-21aa-4359-ab45-697f6378a4c0" />
+
+4. JOIN
+
+4.1 Inner Join
+
+#Lista dados dos pets e seus respectivos donos. -- Só mostra registros que possuem vínculo ativo nas duas tabelas (Pet + Dono)
+
+<img width="886" height="425" alt="image" src="https://github.com/user-attachments/assets/8e7fe498-ef45-4dc6-b6c4-0e1c36fb36ef" />
+
+ 
+#Monta o histórico clínico completo das consultas. -- Junta 3 tabelas para trocar os códigos de ID pelos nomes reais do pet e do médico.
+ 
+<img width="634" height="641" alt="image" src="https://github.com/user-attachments/assets/445b6a03-54fc-4848-8cc0-346a86a67786" />
 
 
+4.2 Left Join
+#Lista TODOS os clientes, mesmo aqueles que não têm nenhum pet. -- Garante que o cliente apareça na lista; se não tiver pet, o campo do animal vem como NULL.
+
+<img width="886" height="276" alt="image" src="https://github.com/user-attachments/assets/6c026fa2-3903-424d-8add-3ba20b34abe5" />
+
+ 
+#Filtra para encontrar medicamentos ou exames nunca utilizados. -- Traz tudo da tabela clínica e o 'is null' isola o que ficou sem vínculo na prescrição.
+
+![Uploading image.png…]()
 
