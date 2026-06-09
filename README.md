@@ -161,5 +161,35 @@ Nascimento
 
 #Deletando coluna
 
+<img width="669" height="402" alt="image" src="https://github.com/user-attachments/assets/9c61659a-1948-4391-83f0-544fcf335697" />
+
+ 
+6. UPDATE e DELETE
+
+6.1
+
+#Atualizar registros
+
+<img width="886" height="517" alt="image" src="https://github.com/user-attachments/assets/bd8bcb68-7b6d-45e8-b200-835e3c7793a5" />
+
+ 
+#Excluir registros
+
+#Antes de excluir o id=14
+
+<img width="659" height="389" alt="image" src="https://github.com/user-attachments/assets/e2316294-062c-4f9b-b23d-73075ad6aa54" />
+
+ 
+#Depois de excluir o id=14
+
+<img width="886" height="64" alt="image" src="https://github.com/user-attachments/assets/e99df8c4-5b94-4498-a993-95c79040e9ea" />
+
+ 
+7. JSON
+
+7.1 Insert com JSON
+
+<img width="886" height="301" alt="image" src="https://github.com/user-attachments/assets/1d6d0876-b044-4864-863c-d12dfd535c53" />
 ![Uploading image.png…]()
+
  
