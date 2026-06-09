@@ -1,6 +1,12 @@
 # petshop-databse-mariadb
 Modelagem e consultas SQL para sistema de pet shop hospitalar.
+---
+DER - MODELAGEM LÓGICA
 
+<img width="926" height="336" alt="image" src="https://github.com/user-attachments/assets/b8c81100-18d0-463f-8164-372e79773a37" />
+
+---
+MODELAGEM FÍSICA
 
 1.1 CREATE DATABASE PETSHOP
 
