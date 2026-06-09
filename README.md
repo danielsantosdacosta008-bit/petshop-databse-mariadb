@@ -128,6 +128,7 @@ Nascimento
 
 
 4.2 Left Join
+
 #Lista TODOS os clientes, mesmo aqueles que não têm nenhum pet. -- Garante que o cliente apareça na lista; se não tiver pet, o campo do animal vem como NULL.
 
 <img width="886" height="276" alt="image" src="https://github.com/user-attachments/assets/6c026fa2-3903-424d-8add-3ba20b34abe5" />
@@ -135,5 +136,30 @@ Nascimento
  
 #Filtra para encontrar medicamentos ou exames nunca utilizados. -- Traz tudo da tabela clínica e o 'is null' isola o que ficou sem vínculo na prescrição.
 
-![Uploading image.png…]()
+<img width="845" height="350" alt="image" src="https://github.com/user-attachments/assets/5f382e7b-4866-4a22-b61f-4ce3c56302ff" />
 
+5. ALTER TABLE
+
+5.1 Adicionar coluna
+
+#Adicionando email
+<img width="886" height="374" alt="image" src="https://github.com/user-attachments/assets/ed546c76-0b5a-413f-96dd-7bbaf1e7d387" />
+
+5.2Modify
+
+#Modificando limite varchar email
+<img width="886" height="355" alt="image" src="https://github.com/user-attachments/assets/f9f22c98-3e5f-4e53-96d6-aa3f5b1155ad" />
+
+5.3 Change
+
+#Alterando nome
+
+<img width="886" height="359" alt="image" src="https://github.com/user-attachments/assets/2f84be7f-b3ff-42e5-b33d-220835436d0a" />
+
+ 
+5.4 Drop
+
+#Deletando coluna
+
+![Uploading image.png…]()
+ 
